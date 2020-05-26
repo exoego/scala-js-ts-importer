@@ -2,7 +2,7 @@ pull_request_rules:
   - name: Automatic merge on approval
     conditions:
       - "author=scala-steward"
-      - "status-success=continuous-integration/travis-ci "
+      - "status-success=continuous-integration/travis-ci"
     actions:
       merge:
         method: merge

@@ -1,7 +1,7 @@
 # Deprecated
 
 > [!WARNING]
-> Use ScalablyTyped instead 🙇
+> Use [ScalablyTyped](https://scalablytyped.org/docs/readme.html) instead 🙇
 
 
 # Web UI for Importer from TypeScript type definitions to Scala.js

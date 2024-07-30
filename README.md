@@ -1,3 +1,9 @@
+# Deprecated
+
+> [!WARNING]
+> Use ScalablyTyped instead 🙇
+
+
 # Web UI for Importer from TypeScript type definitions to Scala.js
 
 This branch is to create a simple Web UI for https://github.com/sjrd/scala-js-ts-importer so that users give it a try to
